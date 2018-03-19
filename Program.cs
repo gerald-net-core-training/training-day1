@@ -6,7 +6,7 @@ namespace training_day1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is my First day of training.");
+            Console.WriteLine("This is my First day of training. God bless");
         }
     }
 }
