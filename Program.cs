@@ -6,7 +6,7 @@ namespace training_day1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Oh what is my life oh dear oh dear oh! (!!)");
         }
     }
 }
